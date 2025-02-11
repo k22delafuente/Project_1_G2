@@ -12,11 +12,12 @@ Description: Housing data shows various metrics, such as population, median inco
 
 1)Housing Market Insights (Cristian):
  Which areas have the highest and lowest housing prices? -- Use longitude and latitude to map locations with extreme values.
+
+Images/Heat_Map.png
+
+Images/House_Value_Box.png
  
-2)Demographics and Households (JaJuan):
- Which areas have the highest population density? -- Analyze areas with high population and low total_rooms.
- 
-3)Geographical Questions (Kimberly):
+2)Geographical Questions (Kimberly):
  Are areas closer to the bay more densely populated? -- Compare population and households for areas near the bay. --How does population density impact housing affordability?
 
 ![! (Images/image.png)](Images/image.png)
@@ -27,12 +28,17 @@ Description: Housing data shows various metrics, such as population, median inco
 
 This bar chart shows the household to population ratio according to each ocean proximity group. We can see that the Island group has a household to population ratio of 2.42 people to each household and the number of people per household increases slightly as you get further away from the ocean. However, the differnce between the lowest ratio, the Island, is the greatest ratio, the group less than an hour from the ocean, is less than half a person. It does not seem like the proximity to the ocean makes a significant difference in the population density. 
 
+3)Demographics and Households (JaJuan): Which areas have the highest population density? -- Analyze areas with high population and low total_rooms.
+
 4)Economic and Income Analysis (Christine):
  Are high-income areas associated with newer homes? -- Compare median_income with housing_median_age.
+
  
+
 5)Predictive Questions (Kris): 
  What areas are likely to have increasing house values based on current trends? -- Explore how income, population, and proximity to the ocean might drive future prices.
-? Which areas are at risk of overcrowding in the future? -- Use population and household data to predict areas with potential congestion.
+
+Images/Kris_Price_Map.png
 
 
 
