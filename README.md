@@ -1,6 +1,8 @@
 # Project_1_G2
 Project 1 / Python
 
+Code Citations and Assistance Include: Student Collaboration & Xpert Learning Assistant Chat+/ChatChpt
+
 Student Names: Kimberly Wessler, JaJuan Graham, Christian Pena, Christine Espiritu, Kris De La Fuente
 
 
