@@ -35,7 +35,7 @@ This bar chart shows the household to population ratio according to each ocean p
 4)Economic and Income Analysis (Christine):
  Are high-income areas associated with newer homes? -- Compare median_income with housing_median_age.
 
- 
+ ![!(Images/Christine_Corr_Plot.png)](Images/Christine_Corr_Plot.png)
 
 5)Predictive Questions (Kris): 
  What areas are likely to have increasing house values based on current trends? -- Explore how income, population, and proximity to the ocean might drive future prices.
