@@ -13,9 +13,9 @@ Description: Housing data shows various metrics, such as population, median inco
 1)Housing Market Insights (Cristian):
  Which areas have the highest and lowest housing prices? -- Use longitude and latitude to map locations with extreme values.
 
-Images/Heat_Map.png
+![! (Images/Heat_Map.png)](Images/Heat_Map.png)
 
-Images/House_Value_Box.png
+![!(Images/House_Value_Box.png)](Images/House_Value_Box.png)
  
 2)Geographical Questions (Kimberly):
  Are areas closer to the bay more densely populated? -- Compare population and households for areas near the bay. --How does population density impact housing affordability?
@@ -38,7 +38,7 @@ This bar chart shows the household to population ratio according to each ocean p
 5)Predictive Questions (Kris): 
  What areas are likely to have increasing house values based on current trends? -- Explore how income, population, and proximity to the ocean might drive future prices.
 
-Images/Kris_Price_Map.png
+![! (Images/Kris_Price_Map)](Images/Kris_Price_Map.png)
 
 
 
