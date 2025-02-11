@@ -36,8 +36,12 @@ This bar chart shows the household to population ratio according to each ocean p
 
 ![!(Images/JaJuan_map.png)](Images/JaJuan_map.png)
 
-4)Economic and Income Analysis (Christine):
- Are high-income areas associated with newer homes? -- Compare median_income with housing_median_age.
+
+
+4)Economic and Income Analysis (Christine): Are high-income areas associated with newer homes?
+ 
+ This graph reveals no correlation between the age of housing and the income level of an area. The data demonstrates that higher-income areas are not necessarily populated with 
+ newer homes, indicating that housing age is not a reliable indicator of income
 
  ![!(Images/Christine_Corr_Plot.png)](Images/Christine_Corr_Plot.png)
 
