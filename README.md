@@ -30,6 +30,8 @@ This bar chart shows the household to population ratio according to each ocean p
 
 3)Demographics and Households (JaJuan): Which areas have the highest population density? -- Analyze areas with high population and low total_rooms.
 
+![!(Images/JaJuan_map.png)](Images/JaJuan_map.png)
+
 4)Economic and Income Analysis (Christine):
  Are high-income areas associated with newer homes? -- Compare median_income with housing_median_age.
 
@@ -38,7 +40,7 @@ This bar chart shows the household to population ratio according to each ocean p
 5)Predictive Questions (Kris): 
  What areas are likely to have increasing house values based on current trends? -- Explore how income, population, and proximity to the ocean might drive future prices.
 
-![! (Images/Kris_Price_Map)](Images/Kris_Price_Map.png)
+![!(Images/Kris_Price_Map.png)](Images/Kris_Price_Map.png)
 
 
 
