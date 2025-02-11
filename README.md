@@ -14,9 +14,9 @@ Description: Housing data shows various metrics, such as population, median inco
  Which areas have the highest and lowest housing prices? -- Use longitude and latitude to map locations with extreme values.
 
 ![! (Images/Heat_Map.png)](Images/Heat_Map.png)
-
+ first made a correlation heatmap to investigate the connections between the dataset's attributes. Since more expensive homes are typically found in higher-income areas, the correlation between median income and median house value is among the greatest. Additionally, because they usually scale together in residential premises, the total number of rooms, bedrooms, and households have a strong correlation. It's interesting to note that geographic variables like latitude and longitude also exhibit correlations with pricing trends, suggesting that prices are location-based.
 ![!(Images/House_Value_Box.png)](Images/House_Value_Box.png)
- 
+ Next, I examined how proximity to the ocean affects housing prices using a box plot. Properties near or within an hour of the ocean have significantly higher median values compared to inland properties. Inland homes are the most affordable, with a consistent price range. Interestingly, properties in the ‘Island’ category show a wider price range, possibly indicating a mix of exclusive, high-priced properties.
 2)Geographical Questions (Kimberly):
  Are areas closer to the bay more densely populated? -- Compare population and households for areas near the bay. --How does population density impact housing affordability?
 
