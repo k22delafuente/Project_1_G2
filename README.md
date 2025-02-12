@@ -17,10 +17,11 @@ Description: Housing data shows various metrics, such as population, median inco
 
 ![! (Images/Heat_Map.png)](Images/Heat_Map.png)
  
- first made a correlation heatmap to investigate the connections between the dataset's attributes. Since more expensive homes are typically found in higher-income areas, the correlation between median income and median house value is among the greatest. Additionally, because they usually scale together in residential premises, the total number of rooms, bedrooms, and households have a strong correlation. It's interesting to note that geographic variables like latitude and longitude also exhibit correlations with pricing trends, suggesting that prices are location-based.
+I first made a correlation heatmap to investigate the connections between the dataset's attributes. Since more expensive homes are typically found in higher-income areas, the correlation between median income and median house value is among the greatest. Additionally, because they usually scale together in residential premises, the total number of rooms, bedrooms, and households have a strong correlation. It's interesting to note that geographic variables like latitude and longitude also exhibit correlations with pricing trends, suggesting that prices are location-based.
 ![!(Images/House_Value_Box.png)](Images/House_Value_Box.png)
  
  Next, I examined how proximity to the ocean affects housing prices using a box plot. Properties near or within an hour of the ocean have significantly higher median values compared to inland properties. Inland homes are the most affordable, with a consistent price range. Interestingly, properties in the ‘Island’ category show a wider price range, possibly indicating a mix of exclusive, high-priced properties.
+ 
 2)Geographical Questions (Kimberly):
  Are areas closer to the bay more densely populated? -- Compare population and households for areas near the bay. --How does population density impact housing affordability?
 
@@ -30,7 +31,7 @@ Description: Housing data shows various metrics, such as population, median inco
 
 ![! (Images/image-1.png)](Images/image-1.png)
 
-This bar chart shows the household to population ratio according to each ocean proximity group. We can see that the Island group has a household to population ratio of 2.42 people to each household and the number of people per household increases slightly as you get further away from the ocean. However, the differnce between the lowest ratio, the Island, is the greatest ratio, the group less than an hour from the ocean, is less than half a person. It does not seem like the proximity to the ocean makes a significant difference in the population density. 
+This bar chart shows the household to population ratio according to each ocean proximity group. We can see that the Island group has a household to population ratio of 2.42 people to each household and the number of people per household increases slightly as you get further away from the ocean. However, the differnce between the lowest ratio band the greatest ratio is less than half a person. It does not seem like the proximity to the ocean makes a significant difference in the population density. 
 
 3)Demographics and Households (JaJuan): Which areas have the highest population density? -- Analyze areas with high population and low total_rooms.
 
@@ -40,8 +41,7 @@ This bar chart shows the household to population ratio according to each ocean p
 
 4)Economic and Income Analysis (Christine): Are high-income areas associated with newer homes?
  
- This graph reveals no correlation between the age of housing and the income level of an area. The data demonstrates that higher-income areas are not necessarily populated with 
- newer homes, indicating that housing age is not a reliable indicator of income.
+ This graph reveals no correlation between the age of housing and the income level of an area. The data demonstrates that higher-income areas are not necessarily populated with newer homes, indicating that housing age is not a reliable indicator of income.
 
  ![!(Images/Christine_Corr_Plot.png)](Images/Christine_Corr_Plot.png)
 
