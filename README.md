@@ -48,6 +48,10 @@ This bar chart shows the household to population ratio according to each ocean p
 5)Predictive Questions (Kris): 
  What areas are likely to have increasing house values based on current trends? -- Explore how income, population, and proximity to the ocean might drive future prices.
 
+My analysis provides an in-depth look at the California housing market through predictive modeling and data visualization. I used a scatter plot overlaid on a map of California, highlighting costlier areas in red to reveal key pricing patterns. This visualization exposes important insights, such as the impact of ocean proximity on home values and price fluctuations as we move inland, demonstrating that housing trends vary across regions.
+While proximity to the ocean correlates with higher home prices, it is not the only driving factor. Median income plays a significant role in determining housing costs in different areas, suggesting that economic conditions may outweigh location-based factors in certain regions.
+
+
 ![!(Images/Kris_Price_Map.png)](Images/Kris_Price_Map.png)
 
 
