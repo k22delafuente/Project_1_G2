@@ -36,6 +36,7 @@ This bar chart shows the household to population ratio according to each ocean p
 3)Demographics and Households (JaJuan): Which areas have the highest population density? -- Analyze areas with high population and low total_rooms.
 
 ![!(Images/JaJuan_map.png)](Images/JaJuan_map.png)
+
 Latitude 38.32, Longitude -121.98 (Inland) – Extremely high population density (392.63 people per room).
 Latitude 40.41, Longitude -120.51 (Inland) – Population density of 116.61.
 Latitude 35.32, Longitude -120.70 (Near Ocean) – Population density of 55.36.
