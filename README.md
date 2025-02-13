@@ -47,12 +47,15 @@ Latitude 38.69, Longitude -121.15 (Inland) – Population density of 27.81.
 
 Latitude 34.47, Longitude -118.59 (Inland) – Population density of 16.23.
 
-The highest density of the location appears to be near Sacramento, in California.
-lowest density the location in Lancaster, California.
+The highest density of the location appears to be near Sacramento, California.
+Lowest density the location in Lancaster, California.
 
-Housing costs are most expensive associated with high population density
+Housing costs are more expensive in high-population-density areas.
 Low-density areas are more rural and less populated.
 Also, income is moderate in highly populated dense areas.
+Housing age- 29 years with a mix of older homes and newer developments. Income ranges from low (0) to high (15), with an average of 4, and higher salaries are associated with wealthier areas.
+Many red dots around Los Angeles, San Diego, and Orange County, Indicate high housing density.
+
 
 
 
