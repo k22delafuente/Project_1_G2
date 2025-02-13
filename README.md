@@ -38,12 +38,21 @@ This bar chart shows the household to population ratio according to each ocean p
 ![!(Images/JaJuan_map.png)](Images/JaJuan_map.png)
 
 Latitude 38.32, Longitude -121.98 (Inland) – Extremely high population density (392.63 people per room).
+
 Latitude 40.41, Longitude -120.51 (Inland) – Population density of 116.61.
+
 Latitude 35.32, Longitude -120.70 (Near Ocean) – Population density of 55.36.
+
 Latitude 38.69, Longitude -121.15 (Inland) – Population density of 27.81.
+
 Latitude 34.47, Longitude -118.59 (Inland) – Population density of 16.23.
+
 The highest density of the location appears to be near Sacramento, in California.
 lowest density the location in Lancaster, California.
+
+Housing costs are most expensive associated with high population density
+Low-density areas are more rural and less populated.
+Also, income is moderate in highly populated dense areas.
 
 
 
