@@ -37,26 +37,7 @@ This bar chart shows the household to population ratio according to each ocean p
 
 ![!(Images/JaJuan_map.png)](Images/JaJuan_map.png)
 
-Latitude 38.32, Longitude -121.98 (Inland) – Extremely high population density (392.63 people per room).
-
-Latitude 40.41, Longitude -120.51 (Inland) – Population density of 116.61.
-
-Latitude 35.32, Longitude -120.70 (Near Ocean) – Population density of 55.36.
-
-Latitude 38.69, Longitude -121.15 (Inland) – Population density of 27.81.
-
-Latitude 34.47, Longitude -118.59 (Inland) – Population density of 16.23.
-
-The highest density of the location appears to be near Sacramento, California.
-Lowest density the location in Lancaster, California.
-
-Housing costs are more expensive in high-population-density areas.
-Low-density areas are more rural and less populated.
-Also, income is moderate in highly populated dense areas.
-Housing age- 29 years with a mix of older homes and newer developments. Income ranges from low (0) to high (15), with an average of 4, and higher salaries are associated with wealthier areas.
-Many red dots around Los Angeles, San Diego, and Orange County, Indicate high housing density.
-
-
+The highest population density is observed near Sacramento, California (Latitude 38.32, Longitude -121.98), with 392.63 people per room, while the lowest density is in Lancaster, California (Latitude 34.47, Longitude -118.59).  Coastal areas, such as Latitude 35.32, Longitude -120.70, have moderate population density (55.36 people per room), indicating a balance between urbanization and open space. Higher population density is linked to increased housing costs, particularly in major metropolitan areas like Los Angeles, San Diego, and Orange County, where red dots indicate high housing density. Income levels in densely populated regions tend to be moderate, averaging 4 on a scale of 0 to 15, with higher-income areas generally associated with greater housing affordability. The average housing age is 29 years, reflecting a mix of older homes and newer developments. In contrast, low-density inland regions tend to be more rural, with lower housing costs and income levels.
 
 
 4)Economic and Income Analysis (Christine): Are high-income areas associated with newer homes?
